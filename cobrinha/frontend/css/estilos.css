@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+
+img{
+    width: 190px;
+    height: 210px;
+    margin-left: 40%;
+}
+
+h2{
+    text-align: center;
+    color: rgb(161, 55, 55);
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 45px;
+}
+
+.link{
+    color: rgb(161, 55, 55);
+}
+
+form{
+    border-color: black;
+}
+
+.p-2.border.border-primary.rounded, .table.table-hover{
+    background-color: rgb(171, 224, 171);
+    border-color: black;
+}
+
+.btn.btn-info, .btn.btn-warning{
+   background-color: rgb(161, 55, 55);
+   color: white;
+   border-color: black;
+}
